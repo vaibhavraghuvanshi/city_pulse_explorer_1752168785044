@@ -236,4 +236,3 @@ This project is licensed under the MIT License.
 - React Native and Expo teams
 - Firebase for backend services
 - Ticketmaster for event data
-- a0.dev for development environment and APIs
